@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @aliz0908
 - 👀 I’m interested in Web Dev, Android and IOS apps and some PC Applications
-- 🌱 I’m currently learning WEB DEV
-- 💞️ I’m looking to collaborate on as stated above
+- 🌱 I’m currently studying Software Engineering
+
+
 - 📫 How to reach me..
 Email me at:
 aliz0908@hotmail.com
