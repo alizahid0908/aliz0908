@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliz0908
+- 👋 Hi, I’m @alizahid0908
 - 👀 I’m interested in Web Dev, Android and IOS apps and some PC Applications
 - 🌱 I’m currently studying Software Engineering
 
