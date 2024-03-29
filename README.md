@@ -4,5 +4,5 @@
 
 - 📫 How to reach me..
 Email me at:
-  m.alizahid@proton.me
+  m.alizahid@proton.me OR se.alizahid@gmail.com
 
