@@ -1,6 +1,5 @@
-👋 Hi, I’m M Ali Zahid
-👀 I’m a Full Stack Web Developer
-Experience with
+👋 Hi, I’m M Ali Zahid, 
+👀 I’m a Full Stack Web Developer, I've Experience with
 
 - Laravel
 - Laravel Nova
