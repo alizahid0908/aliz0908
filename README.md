@@ -1,6 +1,6 @@
-- 👋 Hi, I’m M Ali Zahid
-- 👀 I’m a Full Stack Web Developer
-- Experience with
+👋 Hi, I’m M Ali Zahid
+👀 I’m a Full Stack Web Developer
+Experience with
 
 - Laravel
 - Laravel Nova
@@ -16,7 +16,7 @@
 - MySql
 - Mongo DB
 
-- 📫 How to reach me..
+📫 How to reach me..
 Email me at:
   m.alizahid@proton.me OR se.alizahid@gmail.com
 
