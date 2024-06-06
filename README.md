@@ -1,19 +1,20 @@
 - 👋 Hi, I’m M Ali Zahid
 - 👀 I’m a Full Stack Web Developer
-- Experience with 
-    ->Laravel
-    ->Laravel Nova
-    ->Laravel Livewire
+- Experience with
 
-    ->React JS
-    ->React Native
-    ->Svelte JS
+- Laravel
+- Laravel Nova
+- Laravel Livewire
 
-    ->Node JS
-    ->Express JS
+- React JS
+- React Native
+- Svelte JS
 
-    ->MySql
-    ->Mongo DB
+- Node JS
+- Express JS
+
+- MySql
+- Mongo DB
 
 - 📫 How to reach me..
 Email me at:
